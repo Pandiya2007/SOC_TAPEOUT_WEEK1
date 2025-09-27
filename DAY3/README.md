@@ -128,7 +128,12 @@ begin
 end
 endmodule
 ```
+## Summary
+- **Focus:** Optimization techniques for combinational and sequential circuits in digital design, with practical Verilog labs.
+  
 
+
+<img width="1024" height="1024" alt="ChatGPT Image Sep 27, 2025, 08_57_36 PM" src="https://github.com/user-attachments/assets/dbfcaef6-c0b3-4260-9f2a-7b08422dfe4f" />
 
 
 
