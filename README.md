@@ -59,6 +59,8 @@ Each day is in its own folder with a dedicated `README.md`:
 - Tips & best practices for RTL design  
 
 ---
+overall review
+<img width="1024" height="1024" alt="Gemini_Generated_Image_wxpryywxpryywxpr" src="https://github.com/user-attachments/assets/470618c1-a32a-4487-8c52-19655d7808f5" />
 
 ## 📜 License  
 
